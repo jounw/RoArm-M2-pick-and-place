@@ -1,0 +1,7 @@
+gemini_api.txt
+api.txt
+.venv/
+__pycache__/
+recordings/
+motions/
+vision_frame*.jpg
