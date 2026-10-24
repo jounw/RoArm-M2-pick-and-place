@@ -1,7 +1,10 @@
 # RoArm-M2 pick-and-place (ArUco floor + Gemini VLM)
 A voice/text-commanded pick-and-place system for the RoArm-M2 arm, built by **HR Robotics**, the robotics club at Haeryong High School (해룡고등학교).
 
-![Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" width="400">
+</p>
+
 
 ## Setup
 ```bash
