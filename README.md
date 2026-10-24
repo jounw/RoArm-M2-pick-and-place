@@ -2,8 +2,10 @@
 A voice/text-commanded pick-and-place system for the RoArm-M2 arm, built by **HR Robotics**, the robotics club at Haeryong High School (해룡고등학교).
 
 <p align="center">
-  <img src="demo.gif" width="400">
+  <img src="setup.png" height="400">&nbsp;&nbsp;
+  <img src="demo.gif" height="400">
 </p>
+<p align="center"><sub>Left: hardware setup — a smartphone on a tripod as the top-down camera, ArUco markers on the table, RoArm-M2. Right: text-commanded pick-and-place (4.75× speed).</sub></p>
 
 
 ## Setup
